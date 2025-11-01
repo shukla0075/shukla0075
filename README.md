@@ -59,64 +59,64 @@
   ### 🚀 Featured Projects
   
   <p>Here are my pinned projects. You can find more on my <b><a href="https://github.com/shukla0075?tab=repositories">repositories page</a></b>.</p>
-  
-  <table width="80%">
-    <tr>
-      <td>
-        <h3>PixelVerse</h3>
-        <p>
-          Stable Diffusion image generator with a Gradio UI for Apple Silicon
-        </p>
-        <p>
-          <a href="https://github.com/shukla0075/PixelVerse"><b>View on GitHub →</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-  <table width="80%">
-    <tr>
-      <td>
-        <h3>PromptVerse</h3>
-        <p>
-          An AI poetry generator using the TinyLlama-Chat model and Gradio.
-        </p>
-        <p>
-          <a href="https://github.com/shukla0075/PromptVerse"><b>View on GitHub →</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <table width="80%">
-    <tr>
-      <td>
-        <h3>DocuRAG</h3>
-        <p>
-          A Python-based document Q&A assistant using the RAG architecture with LangChain and Llama.cpp for 100% local and private inference.
-        </p>
-        <p>
-          <a href="https://github.com/shukla0075/DocuRAG"><b>View on GitHub →</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <table width="80%">
-    <tr>
-      <td>
-        <h3>BookLending-API</h3>
-        <p>
-          The complete implementation of lms using rest api's has been asked by me in the think41's ai based interview.
-        </p>
-        <p>
-          <a href="https://github.com/shukla0075/BookLending-API"><b>View on GitHub →</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
 
 </div>
+
+<table>
+  <tr>
+    <td>
+      <h3>PixelVerse</h3>
+      <p>
+        Stable Diffusion image generator with a Gradio UI for Apple Silicon
+      </p>
+      <p>
+        <a href="https://github.com/shukla0075/PixelVerse"><b>View on GitHub →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+  
+<table>
+  <tr>
+    <td>
+      <h3>PromptVerse</h3>
+      <p>
+        An AI poetry generator using the TinyLlama-Chat model and Gradio.
+      </p>
+      <p>
+        <a href="https://github.com/shukla0075/PromptVerse"><b>View on GitHub →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>DocuRAG</h3>
+      <p>
+        A Python-based document Q&A assistant using the RAG architecture with LangChain and Llama.cpp for 100% local and private inference.
+      </p>
+      <p>
+        <a href="https://github.com/shukla0075/DocuRAG"><b>View on GitHub →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>BookLending-API</h3>
+      <p>
+        The complete implementation of lms using rest api's has been asked by me in the think41's ai based interview.
+      </p>
+      <p>
+        <a href="https://github.com/shukla0075/BookLending-API"><b>View on GitHub →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -130,7 +130,7 @@
     &nbsp;&nbsp;&nbsp;
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    <a href="httpsIA://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
@@ -154,24 +154,24 @@
 
   <p><b>Backend & Databases</b></p>
   <p>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="httpsIA://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="httpsIA://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="httpss://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   </p>
   
   <p><b>Other Languages & Tools</b></p>
   <p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+    <a href="httpsIA://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+    <a href="httpss://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="httpsIA://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="4M0" height="40"/> </a>
   </p>
@@ -187,13 +187,13 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=shukla0075&show_icons=true&locale=en" alt="shukla0075" />
     &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shukla0075&show_icons=true&locale=en&layout=compact" alt="shukla0075" />
+    <img src="httpsIA://github-readme-stats.vercel.app/api/top-langs?username=shukla0075&show_icons=true&locale=en&layout=compact" alt="shukla0075" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukla0075&" alt="shukla0075" />
+    <img src="httpsIA://github-readme-streak-stats.herokuapp.com/?user=shukla0075&" alt="shukla0075" />
   </p>
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shukla0075&theme=github" alt="github activity graph" />
+    <img src="httpsIA://github-readme-activity-graph.vercel.app/graph?username=shukla0075&theme=github" alt="github activity graph" />
   </p>
 
 </div>
