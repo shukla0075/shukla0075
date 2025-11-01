@@ -56,6 +56,72 @@
 
 <div align="center">
 
+  ### 🚀 Featured Projects
+  
+  <p>Here are my pinned projects. You can find more on my <b><a href="https://github.com/shukla0075?tab=repositories">repositories page</a></b>.</p>
+  
+  <table width="80%">
+    <tr>
+      <td>
+        <h3>PixelVerse</h3>
+        <p>
+          Stable Diffusion image generator with a Gradio UI for Apple Silicon
+        </p>
+        <p>
+          <a href="https://github.com/shukla0075/PixelVerse"><b>View on GitHub →</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <table width="80%">
+    <tr>
+      <td>
+        <h3>PromptVerse</h3>
+        <p>
+          An AI poetry generator using the TinyLlama-Chat model and Gradio.
+        </p>
+        <p>
+          <a href="https://github.com/shukla0075/PromptVerse"><b>View on GitHub →</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <table width="80%">
+    <tr>
+      <td>
+        <h3>DocuRAG</h3>
+        <p>
+          A Python-based document Q&A assistant using the RAG architecture with LangChain and Llama.cpp for 100% local and private inference.
+        </p>
+        <p>
+          <a href="https://github.com/shukla0075/DocuRAG"><b>View on GitHub →</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <table width="80%">
+    <tr>
+      <td>
+        <h3>BookLending-API</h3>
+        <p>
+          The complete implementation of lms using rest api's has been asked by me in the think41's ai based interview.
+        </p>
+        <p>
+          <a href="https://github.com/shukla0075/BookLending-API"><b>View on GitHub →</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+<div align="center">
+
   ### 🛠️ Languages and Tools
   
   <p><b>AI / Machine Learning</b></p>
@@ -125,6 +191,9 @@
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukla0075&" alt="shukla0075" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shukla0075&theme=github" alt="github activity graph" />
   </p>
 
 </div>
